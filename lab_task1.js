@@ -1,4 +1,5 @@
 // Задание №1
+"use strict"
 const x1 = -5;
 const y1 = 8;
 const x2 = 10;
