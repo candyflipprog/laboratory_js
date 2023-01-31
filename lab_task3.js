@@ -1,3 +1,4 @@
+// Задание №3
 "use strict";
 
 const n = 0;
